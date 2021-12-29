@@ -1,0 +1,21 @@
+.head-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 60px;
+}
+.head-img {
+	width: auto;
+
+	transition: max-width 1s ease, min-width 1s ease;
+}
+
+.head-img-expanded {
+	min-width: 230px;
+	max-width: 250px;
+}
+
+.head-img-contracted {
+	max-width: 60px;
+	min-width: 40px;
+}
