@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/name-generator/static/css/main.8bcc4b49.css",
+    "main.js": "/name-generator/static/js/main.53ebecf5.js",
+    "index.html": "/name-generator/index.html",
+    "main.8bcc4b49.css.map": "/name-generator/static/css/main.8bcc4b49.css.map",
+    "main.53ebecf5.js.map": "/name-generator/static/js/main.53ebecf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bcc4b49.css",
+    "static/js/main.53ebecf5.js"
+  ]
+}
